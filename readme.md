@@ -1,6 +1,7 @@
-#### Software, Content & SEO for a true web3 adoption.
-Collecting and linking the entire Polkadot ecosystem, its initiatives, projects and relevant content on:
+### Software, Content & SEO for a true web3 adoption.
+
+#### Collecting and linking the entire Polkadot ecosystem—its initiatives, projects, and relevant content—on the DaBlock content portal.
 ---
-[Dablock.com: Polkadot News & Projects](https://dablock.com/).
+[dablock.com - Polkadot News & Projects](https://dablock.com/)
 ---
-![I am GitHub Readme Generator's creator](https://pbs.twimg.com/profile_banners/1208952193/1712962528/1500x500)
+![dablock](https://pbs.twimg.com/profile_banners/1208952193/1712962528/1500x500)
